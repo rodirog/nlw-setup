@@ -21,7 +21,7 @@ NLW is an exclusive and free event, promoted by Rocketseat to teach WEB technolo
   <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 This project was developed using the following technologies:
 
